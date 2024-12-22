@@ -16,18 +16,28 @@ I have formal education in engineering, computing, AI and statistics (epidemiolo
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)  
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-234ea94b?style=for-the-badge&logo=MongoDB&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-3776AB?style=for-the-badge&logo=Golang&logoColor=white)
+![R](https://img.shields.io/badge/r-3472C0?style=for-the-badge&logo=r&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-BA312B?style=for-the-badge&logo=Ruby&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-C7252B?style=for-the-badge&logo=YAML&logoColor=white)
 
 ### **AI/ML Frameworks & Tools**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EA4F36?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikitlearn-3299CD?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D40000?style=for-the-badge&logo=Keras&logoColor=white)
 
 ### **Collaboration & Design Tools**  
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)  
-
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-874FFF?style=for-the-badge&logo=figma&logoColor=white)
+![Sketch](https://img.shields.io/badge/Sketch-FDAD00?style=for-the-badge&logo=sketch&logoColor=white)
 
 ## Get in Touch 🫱🏾‍🫲🏾
 <p align="left">
@@ -43,9 +53,16 @@ I have formal education in engineering, computing, AI and statistics (epidemiolo
   <a href="https://steamcommunity.com/id/maybuns/">
   <img src="https://img.shields.io/badge/Steam-181717?style=for-the-badge&logo=steam&logoColor=white" alt="Steam: maybuns" />
 </a>
+  </a>
+  <a href="https://myanimelist.net/profile/xmaybunnyx">
+  <img src="https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=MyAnimeList&logoColor=white" alt="MyAnimeList: xmaybunnyx" />
+</a>
 </p>
 
 <!--
+BADGES:
+https://github.com/inttter/md-badges
+
 
 ## Hi there 👋, I'm Michelle!
 
