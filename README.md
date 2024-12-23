@@ -22,7 +22,7 @@ I have formal education in engineering, computing, AI and statistics (epidemiolo
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-234ea94b?style=for-the-badge&logo=MongoDB&logoColor=white)
-![Golang](https://img.shields.io/badge/Golang-3776AB?style=for-the-badge&logo=Golang&logoColor=white)
+![Go](https://img.shields.io/badge/Go-3776AB?style=for-the-badge&logo=Go&logoColor=white)
 ![R](https://img.shields.io/badge/r-3472C0?style=for-the-badge&logo=r&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-BA312B?style=for-the-badge&logo=Ruby&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-C7252B?style=for-the-badge&logo=YAML&logoColor=white)
